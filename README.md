@@ -1,4 +1,4 @@
-Certainly! Here's a template for a README file for your GitHub profile based on the information you provided:
+
 
 ---
 
