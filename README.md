@@ -2,14 +2,17 @@
 
 ---
 
-# Rishikesh Keshav Andhare
+# Rishikesh Keshav Andhare (https://www.rishikeshandhare.me/)
+
+##Experienced Professional Seeking Opportunities as Software Development Engineer, DevOps Engineer, SRE, or Cloud Engineer
 
 ## Contact
 - **Location:** San Jose, CA
 - **Phone:** +1 669 677 0868
 - **Email:** rishikeshandhare1301@gmail.com
-- **LinkedIn:** [LinkedIn Profile](LinkedIn_Profile_Link_Here)
-- **GitHub:** [GitHub Profile](GitHub_Profile_Link_Here)
+- **LinkedIn:** https://www.linkedin.com/in/rishikesh-andhare/
+- **GitHub:** https://github.com/RishikeshKeshav
+- **PortFolio** https://www.rishikeshandhare.me/
 
 ## Education
 - **Master of Science in Software Engineering** [GPA: 3.67]
